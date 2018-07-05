@@ -1,0 +1,15 @@
+
+This core was made local using the MakeIPLocal tool. 
+
+Env variables when core was made local are as follows: 
+
+XILINX = C:\Xilinx\14.7\ISE_DS\ISE\;C:/Xilinx/14.7/ISE_DS/EDK 
+XILINX_EDK = C:/Xilinx/14.7/ISE_DS/EDK 
+
+Repository from which the core was copied = C:\Xilinx\14.7\ISE_DS\EDK\hw\XilinxProcessorIPLib\ 
+
+The following helper cores were copied as a part of making this core local: 
+
+proc_common_v3_00_a was copied and renamed to axi_spi_v1_02_a_proc_common_v3_00_a 
+axi_lite_ipif_v1_01_a was copied and renamed to axi_spi_v1_02_a_axi_lite_ipif_v1_01_a 
+interrupt_control_v2_01_a was copied and renamed to axi_spi_v1_02_a_interrupt_control_v2_01_a 
